@@ -1,7 +1,7 @@
 US General Election 2020
 ==============================
 
-Analysis on 2020 US General Election
+Analysis of 2020 US General Election
 
 Project Organization
 ------------
@@ -50,7 +50,6 @@ Project Organization
     │       └── visualize.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
-
 
 --------
 
